@@ -1,0 +1,1 @@
+[engine:junit-jupiter]/[class:lwrest.api.demo.AppTest]/[method:appHasAGreeting()]
